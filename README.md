@@ -6,3 +6,5 @@
 </p>
 
 Challenge simples do Frontend Mentor que utilizei para praticar Vue e experimentar TailwindCSS.
+
+Live preview: https://g-pg.github.io/frontendmentor-rating-component/
